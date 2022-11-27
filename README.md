@@ -1,43 +1,45 @@
-<img src="#" align="center"></img>
-
 <h1 align="center">Movie-lib</h1>
 <p align="center">Projeto desenvolvido utilizando a API do The Movie Database (TMDB)</p>
-<p align="center">
-  <a aria-label="Versão do Vite" href="https://github.com/vitejs/vite/releases">
-    <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"></img>
-  </a>
-  <a aria-label="Versão do React" href="https://github.com/facebook/react/blob/master/CHANGELOG.md">
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></img>
-  </a>
-</p>
 
 <p align="center">
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-instalacao-e-execução">Instalação e execução</a>
+  <a href="#hammer_and_wrench-funcionalidades">Funcionalidades</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gear-instalação-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
-
-## 🚀 Tecnologias
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-<ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>ReactJS</li>
-        <ul>
-            <li>Componentes</li>
-            <li>useState</li>
-            <li>useEffect</li>
-            <li>React Router DOM</li>
-        </ul>
-    <li>Git e Github</li>
-    <li>ViteJS</li>
-</ul>
 
 ## 💻 Projeto
 
 O movie-lib é um projeto contruído com o intuito de aperfeiçoar os conhecimentos em ReactJS e também utilizar a API do The Movie Database fazendo consultas de filmes com as melhores notas, pesquisar e mostrar as descrições dos mesmos.
+
+## 🧰 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>ReactJS</li>
+      <ul>
+          <li>Componentes</li>
+          <li>useState</li>
+          <li>useEffect</li>
+      </ul>
+  <li>React Router DOM</li>
+  <li>React Icons</li>
+  <li>Git e Github</li>
+  <li>ViteJS</li>
+</ul>
+
+## :hammer_and_wrench: Funcionalidades
+
+<ul>
+  <li>Mostrar filmes mais bem avaliados pelo The Movie Database</li>
+  <li>Campo de busca de filmes</li>
+  <li>Listagem dos filmes buscados</li>
+  <li>Botão "Detalhes", para mostrar mais informações sobre determinado filme</li>
+</ul>
 
 ## :gear: Instalação e execução
 
