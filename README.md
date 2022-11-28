@@ -52,6 +52,8 @@ _ps: Para poder rodar perfeitamente o projeto instalando todas as dependências 
 5. Rode `npm install` para instalar as dependências do projeto;
 6. Rode `npm run dev` para iniciar o servidor de desenvolvimento. Após o servidor se iniciar por completo, copie o endereço que vai aparecer no terminal e cole em seu navegador de internet para poder usar o projeto.
 
+:exclamation: Caso queira acessar o projeto final sem baixar em seu computador, também pode acessar através <a href="https://movie-lib-lucasmengue.vercel.app/">deste link</a>.
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
